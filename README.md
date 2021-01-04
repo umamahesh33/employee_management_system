@@ -1,5 +1,5 @@
 # employee_management_system
-This is the full phase and minor project on employee management system , coded with pyhton tkinter and mysql
+This is the full phase project on employee management system , coded with pyhton tkinter and mysql
 project is good for engineering minor project
 this is a project on employee management system
 languages used 
